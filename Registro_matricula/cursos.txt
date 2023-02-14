@@ -1,0 +1,7 @@
+1001,Algoritmos y Estructura de Datos,0,3,40
+1003,Matemática I,0,2,40
+1004,Matemática ll,1,2,35
+1006,Algoritmia,3,4,58
+1007,Sql Server,4,4,45
+1008,JavaScript,5,3,25
+1010,Civica,4,2,50
